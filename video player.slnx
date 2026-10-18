@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="video player/video player.vcxproj" Id="5042a3c0-7a6c-4df1-9d56-ec4aa86ccb8d" />
+</Solution>
